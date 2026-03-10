@@ -62,3 +62,7 @@ Future Improvements
 - Temperature control for safer combustion
 - Solar-powered operation
 - Mobile application for remote monitoring
+
+# Collaborators
+1. Masika - Supervisor
+2. 
